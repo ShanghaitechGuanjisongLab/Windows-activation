@@ -5,6 +5,11 @@
     <RootNamespace>Windows激活</RootNamespace>
     <TargetFramework>net7.0</TargetFramework>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>图标.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="图标.ico" />
+  </ItemGroup>
 
 </Project>
