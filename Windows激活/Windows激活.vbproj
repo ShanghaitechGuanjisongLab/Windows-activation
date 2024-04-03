@@ -9,6 +9,7 @@
     <Version>1.1.0</Version>
     <Authors>张天夫</Authors>
     <PackageIcon>图标.jpg</PackageIcon>
+    <PackageProjectUrl>https://github.com/ShanghaitechGuanjisongLab/Windows-activation</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
