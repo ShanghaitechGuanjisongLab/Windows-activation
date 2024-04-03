@@ -6,6 +6,8 @@ Module Program
 		Select Case 版本ID
 			Case "Professional"
 				slmgr("/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX")
+			Case "ServerDatacenter"
+				slmgr("/ipk 2KNJJ-33Y9H-2GXGX-KMQWH-G6H67")
 			Case Else
 				Console.WriteLine($"不支持的EditionID：{版本ID}")
 				Console.ReadKey(True)
